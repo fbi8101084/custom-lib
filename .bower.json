@@ -1,0 +1,14 @@
+{
+  "name": "custom-lib",
+  "homepage": "https://github.com/fbi8101084/custom-lib",
+  "_release": "636c373ea5",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "636c373ea5c516069d15b5952fe0d28302d867ad"
+  },
+  "_source": "https://github.com/fbi8101084/custom-lib.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/fbi8101084/custom-lib.git",
+  "_direct": true
+}
